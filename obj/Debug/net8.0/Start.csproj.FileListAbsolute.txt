@@ -1,0 +1,28 @@
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\bin\Debug\net8.0\Start.exe
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\bin\Debug\net8.0\Start.deps.json
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\bin\Debug\net8.0\Start.runtimeconfig.json
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\bin\Debug\net8.0\Start.dll
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\bin\Debug\net8.0\Start.pdb
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\Start.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\Start.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\Start.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\Start.dll
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\refint\Start.dll
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\Start.pdb
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\Start.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Zgadnij liczbe\Start\obj\Debug\net8.0\ref\Start.dll
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\bin\Debug\net8.0\Start.exe
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\bin\Debug\net8.0\Start.deps.json
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\bin\Debug\net8.0\Start.runtimeconfig.json
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\bin\Debug\net8.0\Start.dll
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\bin\Debug\net8.0\Start.pdb
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\Start.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\Start.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\Start.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\Start.dll
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\refint\Start.dll
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\Start.pdb
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\Start.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\Zgadnij liczbe 2\Start\obj\Debug\net8.0\ref\Start.dll
