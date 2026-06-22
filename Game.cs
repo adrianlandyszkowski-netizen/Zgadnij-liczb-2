@@ -63,7 +63,7 @@ public class Game
                 return null;
             }
 
-            // PODPOWIEDZI
+            // ODPOWIEDZI
             string[] low = {
                 Texts.Get(lang, "lose1"),
                 Texts.Get(lang, "lose2"),
